@@ -1,0 +1,265 @@
+Microsoft Windows [Version 10.0.18363.720]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\harsh>cd../..
+
+C:\>f:
+
+F:\>cd server
+
+F:\server>nodemon app
+[nodemon] 2.0.3
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node app.js`
+server is running on  5000
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+err connecting Error: querySrv ETIMEOUT _mongodb._tcp.concept-xyi38.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:206:19) {
+  errno: 'ETIMEOUT',
+  code: 'ETIMEOUT',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.concept-xyi38.mongodb.net'
+}
+(node:48728) UnhandledPromiseRejectionWarning: Error: querySrv ETIMEOUT _mongodb._tcp.concept-xyi38.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:206:19)
+(node:48728) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:48728) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+^CTerminate batch job (Y/N)? y
+
+F:\server>nodemon app
+[nodemon] 2.0.3
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+^CTerminate batch job (Y/N)? y
+
+F:\server>npm install bcryptjs
+npm WARN server@1.0.0 No description
+npm WARN server@1.0.0 No repository field.
+
++ bcryptjs@2.4.3
+added 1 package from 6 contributors and audited 165 packages in 6.658s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+F:\server>nodemon app
+[nodemon] 2.0.3
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+err connecting Error: querySrv ETIMEOUT _mongodb._tcp.concept-xyi38.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:206:19) {
+  errno: 'ETIMEOUT',
+  code: 'ETIMEOUT',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.concept-xyi38.mongodb.net'
+}
+(node:36784) UnhandledPromiseRejectionWarning: Error: querySrv ETIMEOUT _mongodb._tcp.concept-xyi38.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:206:19)
+(node:36784) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:36784) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+^CTerminate batch job (Y/N)? y
+
+F:\server>npm install jsonwebtoken
+npm WARN server@1.0.0 No description
+npm WARN server@1.0.0 No repository field.
+
++ jsonwebtoken@8.5.1
+added 13 packages from 9 contributors and audited 182 packages in 12.468s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+F:\server>nodemon app
+[nodemon] 2.0.3
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+connected to mongo yahh
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+err connecting Error: querySrv ETIMEOUT _mongodb._tcp.concept-xyi38.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:206:19) {
+  errno: 'ETIMEOUT',
+  code: 'ETIMEOUT',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.concept-xyi38.mongodb.net'
+}
+(node:52644) UnhandledPromiseRejectionWarning: Error: querySrv ETIMEOUT _mongodb._tcp.concept-xyi38.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:206:19)
+(node:52644) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:52644) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[nodemon] restarting due to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node app.js`
+server is running on  5000
+err connecting Error: querySrv ETIMEOUT _mongodb._tcp.concept-xyi38.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:206:19) {
+  errno: 'ETIMEOUT',
+  code: 'ETIMEOUT',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.concept-xyi38.mongodb.net'
+}
+(node:50856) UnhandledPromiseRejectionWarning: Error: querySrv ETIMEOUT _mongodb._tcp.concept-xyi38.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:206:19)
+(node:50856) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:50856) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.

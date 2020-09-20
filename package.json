@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -16,5 +15,7 @@
     "mongoose": "^5.9.10",
     "nodemailer": "^6.4.6",
     "nodemailer-sendgrid-transport": "^0.2.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
